@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anshu1016.github.io/csb-nfcuc4/static/css/main.4cbc8e98.chunk.css",
+    "main.js": "https://anshu1016.github.io/csb-nfcuc4/static/js/main.810feb8a.chunk.js",
+    "main.js.map": "https://anshu1016.github.io/csb-nfcuc4/static/js/main.810feb8a.chunk.js.map",
+    "runtime-main.js": "https://anshu1016.github.io/csb-nfcuc4/static/js/runtime-main.b02943e1.js",
+    "runtime-main.js.map": "https://anshu1016.github.io/csb-nfcuc4/static/js/runtime-main.b02943e1.js.map",
+    "static/js/2.38b01de7.chunk.js": "https://anshu1016.github.io/csb-nfcuc4/static/js/2.38b01de7.chunk.js",
+    "static/js/2.38b01de7.chunk.js.map": "https://anshu1016.github.io/csb-nfcuc4/static/js/2.38b01de7.chunk.js.map",
+    "index.html": "https://anshu1016.github.io/csb-nfcuc4/index.html",
+    "static/css/main.4cbc8e98.chunk.css.map": "https://anshu1016.github.io/csb-nfcuc4/static/css/main.4cbc8e98.chunk.css.map",
+    "static/js/2.38b01de7.chunk.js.LICENSE.txt": "https://anshu1016.github.io/csb-nfcuc4/static/js/2.38b01de7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b02943e1.js",
+    "static/js/2.38b01de7.chunk.js",
+    "static/css/main.4cbc8e98.chunk.css",
+    "static/js/main.810feb8a.chunk.js"
+  ]
+}
